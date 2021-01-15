@@ -20,3 +20,9 @@ Or just run this one-liner command and everything will be done:
 To run this project simply do:
 
 > npm start
+
+## Image
+
+<p align="center">
+  <img src="github-image.jpeg" width="1000" title="hover text">
+</p>
