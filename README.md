@@ -1,4 +1,14 @@
 #	👓	My-GoogleGlass
+
+<div align="left">
+    <img src="https://img.shields.io/badge/language-javascript-yellow">
+    <img src="https://img.shields.io/badge/app-electron-brightgreen">
+    <img src="https://img.shields.io/badge/web-html-red">
+    <img src="https://img.shields.io/badge/style-css-blue">
+    <img src="https://img.shields.io/badge/license-MIT-blueviolet">
+</div>
+
+---
 This repository contains my first project developed using web development technologies such as HTML, CSS and Javascript. Initially, this project was done following the youtube programming course of "Curso em Vídeo", however, eventually I took the opportunity to test my first project with Electron and transformed the site into a desktop application.
 
 <p align="center">
